@@ -65,3 +65,12 @@ background-color: white;
 .text-center{
     color: black;
 }
+@media (max-width:960px) {
+    .project-description{
+        padding:0;
+        text-align: center;
+    }
+}
+.img-fluid{
+    max-width: 600px;
+}
