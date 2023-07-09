@@ -65,7 +65,10 @@ background-color: white;
 .text-center{
     color: black;
 }
-@media (max-width:960px) {
+@media (max-width:900px) {
+    h1{
+        font-size:60px;
+    }
     .project-description{
         padding:0;
         text-align: center;
