@@ -94,7 +94,7 @@ background-color: white;
     margin: 30px;
 }
 
-.content-container h1{
+.content h1{
     font-size: 64px;
     line-height: 80px;
 }
@@ -113,7 +113,19 @@ font-family:"Poppins", sans-serif;
     border-radius:12px;
     padding-top: 10px;
 }
-
+.content h3{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    margin: 20px 0 0;
+}
+.content p{
+    font: 14px;
+}
+.content{
+    text-align: center;
+    padding: 0;
+}
 
 
 
